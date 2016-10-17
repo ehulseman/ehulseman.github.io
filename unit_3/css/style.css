@@ -1,0 +1,24 @@
+body {
+	background-color: LavenderBlush;
+	font-family: arial, helvetica, sans-serif; 
+	font-style: normal;
+	background: url(/images/homepagepattern.jpg);
+	background-size: cover; 
+}
+
+h1, p {text-align: center;
+}
+
+h1 {color: black;
+	font-size: 45px;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+
+p {color:dark gray;
+font-size: 25px;
+font-weight: normal;
+font-variant: small-caps;
+text-transform: lowercase;
+text-decoration-line: overline;
+}
