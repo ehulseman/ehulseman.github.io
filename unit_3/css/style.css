@@ -1,20 +1,24 @@
 body {
-	font-family: arial, helvetica, sans-serif; 
-	font-style: normal;
-	background: url("images/homepagepattern.jpg");
-	background-size: cover; 
+background: url(../images/homepageimagebrick.jpg);
+background-size: cover;
+background-color: black; 
 }
 
-h1, p {text-align: center;
+h1, h3 {
+text-align: center;
 }
 
-h1 {color: black;
-	font-size: 45px;
-	font-weight: lighter;
-	text-transform: uppercase;
+h1 {
+color: black;
+font: 'Oslwald', sans-serif;
+font-size: 70px;
+font-weight: lighter;
+text-transform: uppercase;
 }
 
-p {color:dark gray;
+h3 {
+color:dark gray;
+font: 'Droid Serif', serif;
 font-size: 25px;
 font-weight: normal;
 font-variant: small-caps;
