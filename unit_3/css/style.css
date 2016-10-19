@@ -9,7 +9,7 @@ h1, h3 {
 text-align: center;
 }
 
-h1 {
+h1.heading {
 color: black;
 font: 'Oslwald', sans-serif;
 font-size: 70px;
@@ -17,7 +17,7 @@ font-weight: lighter;
 text-transform: uppercase;
 }
 
-h3 {
+h3#slogan {
 color:dark gray;
 font: 'Droid Serif', serif;
 font-size: 25px;
@@ -25,4 +25,5 @@ font-weight: normal;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
+padding-top: 200px;
 }
