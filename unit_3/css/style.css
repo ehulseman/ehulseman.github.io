@@ -9,7 +9,7 @@ h1, h3 {
 text-align: center;
 }
 
-h1.heading {
+h1#heading {
 color: black;
 font: 'Oslwald', sans-serif;
 font-size: 70px;
@@ -18,7 +18,7 @@ text-transform: uppercase;
 }
 
 h3#slogan {
-color:dark gray;
+color:gray;
 font: 'Droid Serif', serif;
 font-size: 25px;
 font-weight: normal;
@@ -26,4 +26,22 @@ font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
 padding-top: 200px;
+}
+
+
+div#hello {width: 100%; 
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+button.fixedwidthbutton {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:  200px;
 }
