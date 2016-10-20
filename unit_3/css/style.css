@@ -38,7 +38,7 @@ p {
     color: black;
     padding-right: 400px;
     padding-left: 400px;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 ul {
@@ -49,7 +49,7 @@ li {
     text-align: center;
     color: black;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 
@@ -61,12 +61,12 @@ div {width: 90%;
 button.fixedwidthbutton {
     background-color: #81a0d1;
     border: none;
-    color: #474c51;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
     width:  200px;
-    font-family:'Raleway', sans-serif;
+    font-family:'Quicksand', sans-serif;
 }
