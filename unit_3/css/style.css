@@ -15,6 +15,7 @@ font: 'Oslwald', sans-serif;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
+padding-top: 200px;
 }
 
 h3#slogan {
@@ -29,13 +30,13 @@ padding-top: 200px;
 }
 
 
-div#hello {width: 100%; 
+div#hello {width: 90%; 
   margin: 0 auto 0 auto;
   text-align: center;
 }
 
 button.fixedwidthbutton {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50;
     border: none;
     color: black;
     padding: 15px 32px;
