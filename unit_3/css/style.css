@@ -20,8 +20,8 @@ font-family: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
-padding-top: 250px;
-padding-bottom: 50px;
+padding-top: 300px;
+padding-bottom: 0px;
 }
 
 h3#slogan {
@@ -44,7 +44,7 @@ div#hello {width: 90%;
 button.fixedwidthbutton {
     background-color: #81a0d1;
     border: none;
-    color: black;
+    color: gray;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
