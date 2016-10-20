@@ -6,9 +6,8 @@ opacity: 80%;
 background-repeat: no-repeat;
 font-family: 'Bungee', cursive;
 font-family: 'Bungee Shade', cursive;
-font-family: 'Raleway Dots', cursive;
-font-family: 'Raleway', sans-serif;
 font-family: 'Quicksand', sans-serif;
+font-family: 'Bungee Inline', cursive;
 }
 
 h1, p {
@@ -17,7 +16,7 @@ text-align: center;
 
 h1 {
 color: black;
-font-family: 'Bungee', Cursive;
+font-family: 'Bungee Inline', Cursive;
 font-size: 70px;
 text-transform: uppercase;
 padding-top: 200px;
