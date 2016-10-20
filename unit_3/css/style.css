@@ -78,7 +78,6 @@ button.fixedwidthbutton {
 a {
     font-family: 'Quicksand', sans-serif;
     font-size: 1em;
-    text-align: center;
     color: black;
-    align-content: center;
+    vertical-align: baseline;
 }
