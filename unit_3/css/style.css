@@ -62,11 +62,11 @@ button.fixedwidthbutton {
     background-color: #81a0d1;
     border: none;
     color: black;
-    padding: 15px 32px;
+    padding: 20px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 1.5em;
-    width:  200px;
+    width:  250px;
     font-family:'Quicksand', sans-serif;
 }
