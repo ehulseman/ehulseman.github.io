@@ -7,6 +7,7 @@ font-family: 'Bungee', cursive;
 font-family: 'Bungee Shade', cursive;
 font-family: 'Raleway Dots', cursive;
 font-family: 'Raleway', sans-serif;
+font-family: 'Quicksand', sans-serif;
 }
 
 h1, h3 {
@@ -24,7 +25,7 @@ padding-top: 250px;
 
 h3#slogan {
 color:gray;
-font-family: 'Raleway Dots', cursive;
+font-family: 'Quicksand', sans-serif;
 font-size: 65px;
 font-weight: bold;
 font-variant: small-caps;
