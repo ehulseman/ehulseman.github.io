@@ -11,7 +11,7 @@ text-align: center;
 
 h1#heading {
 color: black;
-font: 'Bungee', Cursive;
+font-family: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
@@ -20,7 +20,7 @@ padding-top: 100px;
 
 h3#slogan {
 color:gray;
-font: 'Raleway Dots', cursive;
+font-family: 'Raleway Dots', cursive;
 font-size: 25px;
 font-weight: normal;
 font-variant: small-caps;
@@ -45,5 +45,5 @@ button.fixedwidthbutton {
     display: inline-block;
     font-size: 16px;
     width:  200px;
-    font:'Raleway', sans-serif;
+    font-family:'Raleway', sans-serif;
 }
