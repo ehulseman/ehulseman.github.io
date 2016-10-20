@@ -3,6 +3,10 @@ background: url(../images/homepageimage.jpg);
 background-size: cover;
 background-color: black; 
 background-repeat: no-repeat;
+font-family: 'Bungee', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Raleway Dots', cursive;
+font-family: 'Raleway', sans-serif;
 }
 
 h1, h3 {
@@ -15,7 +19,7 @@ font: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
-padding-top: 300px;
+padding-top: 100px;
 }
 
 h3#slogan {
