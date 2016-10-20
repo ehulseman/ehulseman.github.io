@@ -21,6 +21,7 @@ font-family: 'Bungee', Cursive;
 font-size: 70px;
 text-transform: uppercase;
 padding-top: 200px;
+margin: 0;
 }
 
 p#slogan {
@@ -31,12 +32,13 @@ font-weight: bolder;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
+margin: 0 0 40px 0;
 }
 
 p {
     text-align: center;
     font-weight: bold;
-    color: #ABFFF1;
+    color: black;
     padding-right: 400px;
     padding-left: 400px;
     font-size: 1.5em;
