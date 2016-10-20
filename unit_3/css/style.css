@@ -72,3 +72,8 @@ button.fixedwidthbutton {
     width:  250px;
     font-family:'Quicksand', sans-serif;
 }
+
+a {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+}
