@@ -27,7 +27,7 @@ p#slogan {
 color: black;
 font-family: 'Quicksand', sans-serif;
 font-size: 5em;
-font-weight: bolder;
+font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
@@ -36,7 +36,7 @@ margin: 0 0 40px 0;
 
 p {
     text-align: center;
-    font-weight: bold;
+    font-weight: normal;
     color: black;
     padding-right: 400px;
     padding-left: 400px;
@@ -50,7 +50,7 @@ ul {
 li {
     text-align: center;
     color: black;
-    font-weight: bolder;
+    font-weight: normal;
     font-size: 1.5em;
 }
 
@@ -76,4 +76,6 @@ button.fixedwidthbutton {
 a {
     font-family: 'Quicksand', sans-serif;
     font-size: 1em;
+    text-align: center;
+    color: black;
 }
