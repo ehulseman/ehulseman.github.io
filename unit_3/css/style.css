@@ -1,5 +1,5 @@
 body {
-background: url(../images/homepageimagebrick.jpg);
+background: url(../images/homepageimage.jpg);
 background-size: cover;
 background-color: black; 
 background-repeat: no-repeat;
@@ -25,7 +25,7 @@ padding-top: 200px;
 h3#slogan {
 color:gray;
 font-family: 'Raleway Dots', cursive;
-font-size: 50px;
+font-size: 70px;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
