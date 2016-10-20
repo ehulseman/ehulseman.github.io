@@ -1,5 +1,5 @@
 body {
-background: url(../images/homepageimagepattern.jpg);
+background: url(../images/homepageimagebrick.jpg);
 background-size: cover;
 background-color: black; 
 background-repeat: no-repeat;
@@ -15,7 +15,7 @@ text-align: center;
 
 h1#heading {
 color: black;
-font: 'Bungee Shade', Cursive;
+font: 'Bungee', Cursive;
 font-size: 70em;
 font-weight: lighter;
 text-transform: uppercase;
