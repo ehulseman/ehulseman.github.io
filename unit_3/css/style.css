@@ -10,11 +10,11 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Quicksand', sans-serif;
 }
 
-h3, p {
+h1, p {
 text-align: center;
 }
 
-h3#heading {
+h1 {
 color: black;
 font-family: 'Bungee', Cursive;
 font-size: 70px;
@@ -32,8 +32,16 @@ text-transform: lowercase;
 text-decoration-line: overline;
 }
 
+ul {
+    text-align: center;
+}
 
-div#hello {width: 90%; 
+li {
+    text-align: center;
+}
+
+
+div {width: 90%; 
   margin: 0 auto 0 auto;
   text-align: center;
 }
