@@ -18,16 +18,15 @@ h1 {
 color: black;
 font-family: 'Bungee', Cursive;
 font-size: 70px;
-font-weight: lighter;
 text-transform: uppercase;
-padding-top: 200px;
+padding-top: 400px;
 }
 
 p#slogan {
-color: #474c51;
+color: black;
 font-family: 'Quicksand', sans-serif;
 font-size: 65px;
-font-weight: bold;
+font-weight: bolder;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
@@ -36,17 +35,17 @@ text-decoration-line: overline;
 p {
     text-align: center;
     font-weight: bolder;
-    color: #474c51;
-    padding-right: 25px;
-    padding-left: 25px;
-    font-size: 40px;
+    color: black;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: 100px;
 }
 
 li {
     text-align: center;
-    color: #474c51;
+    color: black;
     font-weight: bolder;
-    font-size: 40px;
+    font-size: 100px;
 }
 
 
