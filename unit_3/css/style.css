@@ -20,19 +20,16 @@ font-family: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
-padding-top: 300px;
-padding-bottom: 0px;
 }
 
 h3#slogan {
-color: darkgray;
+color: #474c51;
 font-family: 'Quicksand', sans-serif;
 font-size: 65px;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
-padding-top: 25px;
 }
 
 
@@ -44,7 +41,7 @@ div#hello {width: 90%;
 button.fixedwidthbutton {
     background-color: #81a0d1;
     border: none;
-    color: gray;
+    color: #474c51;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
