@@ -20,6 +20,7 @@ font-family: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
+padding-top: 200px;
 }
 
 p#slogan {
@@ -38,12 +39,14 @@ p {
     color: #474c51;
     padding-right: 25px;
     padding-left: 25px;
+    font-size: 40px;
 }
 
 li {
     text-align: center;
     color: #474c51;
     font-weight: bolder;
+    font-size: 40px;
 }
 
 
