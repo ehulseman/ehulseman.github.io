@@ -15,22 +15,22 @@ text-align: center;
 
 h1#heading {
 color: black;
-font-family: 'Bungee Shade', Cursive;
+font-family: 'Bungee', Cursive;
 font-size: 70px;
 font-weight: lighter;
 text-transform: uppercase;
-padding-top: 200px;
+padding-top: 250px;
 }
 
 h3#slogan {
 color:gray;
 font-family: 'Raleway Dots', cursive;
-font-size: 70px;
+font-size: 65px;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
-padding-top: 50px;
+padding-top: 25px;
 }
 
 
