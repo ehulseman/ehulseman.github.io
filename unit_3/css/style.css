@@ -25,13 +25,14 @@ padding-bottom: 50px;
 }
 
 h3#slogan {
-color:gray;
+color: darkgray;
 font-family: 'Quicksand', sans-serif;
 font-size: 65px;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
 text-decoration-line: overline;
+padding-top: 25px;
 }
 
 
