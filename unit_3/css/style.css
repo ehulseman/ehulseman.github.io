@@ -32,12 +32,18 @@ text-transform: lowercase;
 text-decoration-line: overline;
 }
 
-ul {
+p {
     text-align: center;
+    font-weight: bolder;
+    color: #474c51;
+    padding-right: 25px;
+    padding-left: 25px;
 }
 
 li {
     text-align: center;
+    color: #474c51;
+    font-weight: bolder;
 }
 
 
