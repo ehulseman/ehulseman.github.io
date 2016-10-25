@@ -10,7 +10,7 @@ body {
 
 
 section.logo, section.recentwork, section.about, section.getintouch {
-  margin: 0 1.5% 24px 1.5%;
+  margin: 24px 1.5% 24px 1.5%;
   color: black;
 }
 

@@ -1,33 +1,39 @@
 body {
-   background-color: black; 
+   background: url(../images/homepagetiles.jpg);
+   background-size: cover;
+   background-repeat: repeat;
    font-family: 'Bungee', cursive;
    font-family: 'Bungee Shade', cursive;
    font-family: 'Quicksand', sans-serif;
    font-family: 'Bungee Inline', cursive;
 }
 
-div.homepage {
-   background: url(../images/homepagetiles.jpg);
-   background-size: cover;
-   background-repeat: no-repeat;
-}
 
 section.logo, section.recentwork, section.about, section.getintouch {
-   background-color: Black;
-   size: 70%;
+  margin: 24px 1.5% 24px 1.5%;
+  color: black;
 }
+
 
 nav {
    width: 100%;
    text-align: center;
+   color: beige;
 }
 
-div.homepagebutton {width: 90%; 
+a{
+   font-family: 'Quicksand', sans-serif;
+   color: white;
+   font-size: 10pt;
+}
+
+div#homepagebutton {
+   width: 90%; 
    margin: 0 auto 0 auto;
    text-align: center;
 }
 
-button.fixedwidthbutton {
+button#homepagebutton {
    background-color: #81a0d1;
    border: none;
    color: black;
@@ -42,10 +48,10 @@ button.fixedwidthbutton {
 
 
 h1.title {
-   color: white;
    font-family: 'Bungee Shade', Cursive;
    font-size: 35pt;
    text-transform: uppercase;
+   text-align: center;
    padding-top: 200px;
    margin: 40px 0 0 0;
 }
@@ -60,12 +66,14 @@ h2.subtitle {
    text-transform: lowercase;
    text-decoration-line: overline;
    margin: 0 0 40px 0;
+   text-align: center;
 }
+
 
 h3 {
    font-family: 'Quicksand', sans-serif;
    font-size: 16pt; 
-   color: black;
+   color: white;
 }
 
 
@@ -81,4 +89,6 @@ p {
 footer {
    width: 100%;
    text-align: center;
+   margin-bottom: 0;
+   color: beige;
 }
