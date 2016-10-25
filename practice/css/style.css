@@ -9,6 +9,12 @@ body {
 }
 
 
+section#hero {
+   display: block;
+   color: lightgray;
+}
+
+
 h1#title {
    font-family: 'Bungee Shade', sans-serif;
    font-size: 40pt; 
