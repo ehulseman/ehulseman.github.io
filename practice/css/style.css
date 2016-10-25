@@ -1,0 +1,9 @@
+body {
+   background: url(../images/homepagetiles.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: 'Bungee', cursive;
+   font-family: 'Bungee Shade', cursive;
+   font-family: 'Quicksand', sans-serif;
+   font-family: 'Bungee Inline', cursive;
+}
