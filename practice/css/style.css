@@ -7,3 +7,15 @@ body {
    font-family: 'Quicksand', sans-serif;
    font-family: 'Bungee Inline', cursive;
 }
+
+div.logo {
+   margin: 1em auto;
+   padding-bottom: 2em;
+   text-align: center;
+   width: 70%;
+}
+
+h1.title {
+   font-family: 'Bungee Shade', sans-serif;
+   font-size: 40pt; 
+}
