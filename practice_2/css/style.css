@@ -17,16 +17,16 @@ text-align: center;
 h1 {
 color: black;
 font-family: 'Bungee Inline', Cursive;
-font-size: 70px;
+font-size: 65pt;
 text-transform: uppercase;
-padding-top: 200px;
+padding-top: 500px;
 margin: 40px 0 0 0;
 }
 
 p#slogan {
 color: black;
 font-family: 'Quicksand', sans-serif;
-font-size: 5em;
+font-size: 36pt;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: lowercase;
@@ -47,7 +47,8 @@ button.fixedwidthbutton {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1.5em;
+    font-size: 16pt;
     width:  250px;
     font-family:'Quicksand', sans-serif;
+    margin: 2% 2% 2% 2%
 }
