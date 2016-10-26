@@ -1,9 +1,10 @@
 body {
-background: url(../images/workspace.jpg);
+background: url(../images/whitedesk.jpg);
 background-size: cover;
 background-color: black; 
 opacity: 80%;
 background-repeat: no-repeat;
+background-position: center;
 font-family: 'Bungee', cursive;
 font-family: 'Bungee Shade', cursive;
 font-family: 'Quicksand', sans-serif;
