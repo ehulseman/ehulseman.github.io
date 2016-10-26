@@ -1,6 +1,6 @@
 body {
 background: url(../images/wooddesk.jpg);
-background-size: 100%;
+background-size: cover;
 background-color: black; 
 opacity: 80%;
 background-repeat: no-repeat;
