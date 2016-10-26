@@ -1,5 +1,5 @@
 body {
-background: url(../images/wooddesk.jpg);
+background: url(../images/whitedesk.jpg);
 background-size: cover;
 background-color: black; 
 opacity: 80%;
@@ -22,11 +22,11 @@ font-size: 65pt;
 text-transform: uppercase;
 padding-top: 200px;
 margin: 40px 0 0 0;
-color: white;
+color: black;
 }
 
 p#slogan {
-color: white;
+color: black;
 font-family: 'Quicksand', sans-serif;
 font-size: 36pt;
 font-weight: bold;
