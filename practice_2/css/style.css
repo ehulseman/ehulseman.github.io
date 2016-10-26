@@ -1,5 +1,5 @@
 body {
-background: url(../images/whitedesk.jpg);
+background: url(../images/lamp.jpg);
 background-size: cover;
 background-color: black; 
 opacity: 80%;
@@ -26,7 +26,7 @@ margin: 40px 0 0 0;
 
 p#slogan {
 color: black;
-font-family: 'Raleway', sans-serif;
+font-family: 'Quicksand', sans-serif;
 font-size: 36pt;
 font-weight: bold;
 font-variant: small-caps;
