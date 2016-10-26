@@ -1,5 +1,5 @@
 body {
-background: url(../images/lamp.jpg);
+background: url(../images/wooddesk.jpg);
 background-size: 100%;
 background-color: black; 
 opacity: 80%;
@@ -17,15 +17,16 @@ text-align: center;
 }
 
 h1 {
-font-family: 'Bungee Shade', Cursive;
+font-family: 'Bungee Inline', Cursive;
 font-size: 65pt;
 text-transform: uppercase;
 padding-top: 250px;
 margin: 40px 0 0 0;
+color: white;
 }
 
 p#slogan {
-color: black;
+color: white;
 font-family: 'Quicksand', sans-serif;
 font-size: 36pt;
 font-weight: bold;
