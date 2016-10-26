@@ -9,6 +9,7 @@ font-family: 'Bungee', cursive;
 font-family: 'Bungee Shade', cursive;
 font-family: 'Quicksand', sans-serif;
 font-family: 'Bungee Inline', cursive;
+font-family: 'Raleway', sans-serif;
 }
 
 h1, p {
@@ -25,7 +26,7 @@ margin: 40px 0 0 0;
 
 p#slogan {
 color: black;
-font-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif;
 font-size: 36pt;
 font-weight: bold;
 font-variant: small-caps;
