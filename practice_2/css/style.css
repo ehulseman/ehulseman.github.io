@@ -1,6 +1,6 @@
 body {
 background: url(../images/lamp.jpg);
-background-size: cover;
+background-size: 100%;
 background-color: black; 
 opacity: 80%;
 background-repeat: no-repeat;
@@ -17,7 +17,7 @@ text-align: center;
 }
 
 h1 {
-font-family: 'Bungee Inline', Cursive;
+font-family: 'Bungee Shade', Cursive;
 font-size: 65pt;
 text-transform: uppercase;
 padding-top: 250px;
