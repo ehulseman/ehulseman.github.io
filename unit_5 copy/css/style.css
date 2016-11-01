@@ -8,6 +8,7 @@ header {
       background-image: cover;
       border: 1px solid black;
       padding: 20px;
+      text-align: center;
    }
 
 
@@ -34,4 +35,8 @@ footer {
    background-color: #FF957E;
    border: 1px solid black;
    padding: 20px;
+}
+
+h1 {
+   font-family: "Raleway:300", sans-serif;
 }
