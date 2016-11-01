@@ -1,0 +1,37 @@
+
+div.wrapper {
+   margin: 0 auto;
+}
+
+header {
+      background: url(../images/whitedesk.jpg);
+      background-image: cover;
+      border: 1px solid black;
+      padding: 20px;
+   }
+
+
+nav {
+   background-color: #E8C66A;
+   border: 1px solid black;
+   padding: 20px;
+}
+
+
+a {
+   text-decoration: none;
+}
+
+
+section#logo, section#recentwork, section#about, section#getintouch {
+   background-color: #FFB2E8;
+   border: 1px solid black;
+   padding: 20px;
+}
+
+
+footer {
+   background-color: #FF957E;
+   border: 1px solid black;
+   padding: 20px;
+}
