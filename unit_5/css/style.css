@@ -3,10 +3,15 @@ body {
       font-family: 'Bungee Shade', cursive;
       font-family: 'Quicksand', sans-serif;
       font-family: 'Bungee Inline', cursive;
+      text-align: center;
    }
 
+div.wrapper {
+   margin: 0 auto;
+}
+
 header {
-      background: url(../images/homepagetiles.jpg);
+      background: url(../images/whitedesk.jpg);
       background-color: #FFED74;
       border: 1px solid black;
       padding: 20px;
