@@ -1,0 +1,93 @@
+*, *:before, *:after {
+   margin: 0;
+   padding: 0;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+body {
+      font-family: 'Quicksand', sans-serif;
+      text-align: center;
+      padding-top: 130px;
+
+   }
+
+div.wrapper {
+   margin: 0 auto;
+   width: 100%;
+   max-width: 1024px;
+}
+
+header {
+      background: url(../images/whitedesk.jpg);
+      background-color: #FFED74;
+      border: 1px solid black;
+      padding: 20px;
+   }
+
+
+nav {
+   background-color: #E8C66A;
+   border: 1px solid black;
+   padding: 20px;
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+
+
+section#logo, section#recentwork, section#about, section#getintouch {
+   background-color: #FFB2E8;
+   border: 1px solid black;
+   padding: 20px;
+}
+
+#left {
+   background-color: #E582A2;
+   border: 1px black solid;
+   padding: 20px;
+   float: left;
+   width: 33%;
+}
+
+
+#middle {
+   background-color: #E55B88;
+   border: 1px black solid;
+   padding: 20px;
+   float: left;
+   width: 33%;
+}
+
+
+#right {
+   background-color: #E55B88;
+   border: 1px black solid;
+   padding: 20px;
+   float: right;
+   width: 33%;
+}
+
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+font-size: 0;
+content: " ";
+clear: both;
+height: 0;
+}
+
+
+#getintouch {
+   clear: both;
+}
+
+
+footer {
+   background-color: #FF957E;
+   border: 1px solid black;
+   padding: 20px;
+}
