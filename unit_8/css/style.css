@@ -119,7 +119,15 @@ footer {
 }
 
 
-@media only screen and (max-width: 720px){}
+@media only screen and (max-width: 1600px){}
+#left, #middle, #right {
+   width: 33%;
+   height: 300px;
+ 
+}
+
+
+@media only screen and (max-width: 650px){}
 #left, #middle, #right {
    width: 48%;
    height: 300px;
