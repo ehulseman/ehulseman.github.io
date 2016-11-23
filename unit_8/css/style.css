@@ -145,4 +145,10 @@ footer {
       padding:0 2%;
    }
 
+   @media screen and (max-width: 500px){
+     #left, #middle, #right {
+   width: 80%;
+   height: 300px; 
+   }
+
    }
