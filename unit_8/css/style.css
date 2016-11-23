@@ -20,10 +20,10 @@ div.wrapper {
 }
 
 header {
-      background: url(../images/whitedesk.jpg);
-      background-color: #FFED74;
-      border: 1px solid black;
-      padding: 20px;
+      background-image: url(../images/whitedesk.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      border: none;
    }
 
 
@@ -39,9 +39,9 @@ nav {
 
 
 section#logo, section#recentwork, section#about, section#getintouch {
-   background-color: #FFB2E8;
+   background-color: none;
    border: 1px solid black;
-   padding: 20px;
+   padding: 0 0;
 }
 
 #left {
