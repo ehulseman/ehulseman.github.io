@@ -8,6 +8,7 @@
    <!--[if lt IE 9]>
       <script src="bower_components/html5shiv/dist/html5shiv.js"></script>
    <![endif]-->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
 
 <body>
@@ -30,22 +31,22 @@
       
     <div id="left">
       <figure class="work">
-      <img src="http://placehold.it/200x250">
-      <figcaption>Some Text</figcaption>
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project One</figcaption>
       </figure>
     </div>
 
     <div id="middle">
       <figure class="work">
-      <img src="http://placehold.it/200x250">
-      <figcaption>Some Text</figcaption>
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project Two</figcaption>
       </figure>
     </div>
 
       <div id="right">
       <figure class="work">
-      <img src="http://placehold.it/200x250">
-      <figcaption>Some Text</figcaption>
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project Three</figcaption>
       </figure>
       </div>
 
@@ -60,7 +61,7 @@
 
      <div id="middle">
       <figure id="portrait">
-      	<img src="http://placehold.it/200x200">
+      	<img src="images/me.jpg">
       	<figcaption>This is me</figcaption>
       </figure>
       </div>
@@ -74,18 +75,25 @@
 
     <section id="getintouch">
       <h3>Get in Touch</h3>
-      <h4>or email me directly <a href="mailto:ehulseman@gmail.com">here</a>.</h4>
-      <p><a href="#">Go to top</a></p>
+      <h4> Elizah Hulseman</h4>
+      <h4><a href="mailto:ehulseman@gmail.com">ehulseman@gmail.com</a></h4>
     </section>
 
  
     <footer>
-      <h1>FOOTER</h1>
-      <section id="copyright"
+      <section id="copyright">
       <p class="copyright">© 2016 Elizah Hulseman</p>
       </section>
     </footer>
 
+<script type="text/javascript">// A $( document ).ready() block.
+$( document ).ready(function() {
+    console.log( "ready!" );
+    $( "#hamburger" ).click(function() {
+  console.log( "Hamburger Clicked" );
+  $("nav").toggleClass("active");
+});
+});</script>
  </body>
 
  </html>

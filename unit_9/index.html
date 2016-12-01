@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Elizah Hulseman</title>
+	 <link rel="stylesheet" type="text/css" href="css/style.css">
+   <link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Raleway:300,400" rel="stylesheet">
+   <!--[if lt IE 9]>
+      <script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+   <![endif]-->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+  <div id="lander">
+    <header>
+     <h1>Elizah Hulseman</h1>
+     <h2>Personal Portfolio</h2>
+    </header>
+    <nav>
+      <a href="#">Portfolio</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </div>
+ 
+
+  <section id="recentwork" class="clearfix">
+    <h3>Recent Work</h3>
+      
+    <div id="left">
+      <figure class="work">
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project One</figcaption>
+      </figure>
+    </div>
+
+    <div id="middle">
+      <figure class="work">
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project Two</figcaption>
+      </figure>
+    </div>
+
+      <div id="right">
+      <figure class="work">
+      <img src="images/tomatoes.jpg">
+      <figcaption>Project Three</figcaption>
+      </figure>
+      </div>
+
+    </section>
+
+
+    <section id="about" class="clearfix">
+      <div id="left">
+      <h3>About</h3>
+      <p>I live on the seacoast in New Hampshire. Graduated at the University of Edinburgh in 2013. The proud owner of two Ragamese kitties. New home owner and landlord.<p/> 
+      </div>
+
+     <div id="middle">
+      <figure id="portrait">
+      	<img src="images/me.jpg">
+      	<figcaption>This is me</figcaption>
+      </figure>
+      </div>
+
+      <div id="right">
+      <h3>Skills</h3>
+      <p>Product Management; UX Design; Agile Methodology.</p> 
+      </div>
+    </section>
+
+
+    <section id="getintouch">
+      <h3>Get in Touch</h3>
+      <h4> Elizah Hulseman</h4>
+      <h4><a href="mailto:ehulseman@gmail.com">ehulseman@gmail.com</a></h4>
+    </section>
+
+ 
+    <footer>
+      <section id="copyright">
+      <p class="copyright">© 2016 Elizah Hulseman</p>
+      </section>
+    </footer>
+
+<script type="text/javascript">// A $( document ).ready() block.
+$( document ).ready(function() {
+    console.log( "ready!" );
+    $( "#hamburger" ).click(function() {
+  console.log( "Hamburger Clicked" );
+  $("nav").toggleClass("active");
+});
+});</script>
+ </body>
+
+ </html>
