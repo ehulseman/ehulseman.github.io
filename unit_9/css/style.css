@@ -80,6 +80,10 @@ figcaption {
 }
 
 
+#hamburger {
+   display: none;
+}
+
 nav {
    margin: auto;
    text-align: center;
@@ -144,6 +148,20 @@ section#getintouch {
    width: 33.333%;
 }
 
+#left, #right {
+   height: 0;
+   padding-bottom: 50%;
+   position: relative;
+}
+
+.inner {
+   width: 100%;
+   position: absolute;
+   top: 50%;
+   left: 0;
+   transform: translateY(-50%);
+}
+
 
 .clearfix:after {
 visibility: hidden;
@@ -173,16 +191,20 @@ footer {
    nav{
       height: 0;
       overflow: hidden;
-   }
-
-   nav {
-      height: 100px;
+      -webkit-transition: all 1s ease-in-out;
+      -moz-transition: all 1s ease-in-out;
+      -o-transition: all 1s ease-in-out;
+      transition: all 1s ease-in-out;
    }
 
    nav a:link{
       display: block;
       padding:15px;
       margin:5px;
+   }
+
+   nav.active {
+      height: 100px;
    }
 
    h1{
@@ -193,6 +215,14 @@ footer {
       padding:0 2%;
    }
 
+   #hamburger {
+      display: block;
+   }
+
+   #lander {
+      min-height: 400px;
+   }
+
 }
 
 
@@ -200,6 +230,17 @@ footer {
 #left, #middle, #right {
    width: 50%;
   }
+
+#left, #right {
+   height: auto;
+   padding-bottom: 0;
+}
+
+.inner {
+   position: relative;
+   top: 0;
+   transform: translateY(0);
+}
 }
 
 
